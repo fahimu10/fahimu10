@@ -2,8 +2,8 @@
 
 # Fahim Uddin
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:fahimuddin.dev@gmail.com)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/fahimu10/)
+[![Twitter Badge](https://img.shields.io/badge/-@fahimu10-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fahimu10)](https://twitter.com/fahimu10) [![Linkedin Badge](https://img.shields.io/badge/-fahimu10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahimu10/)](https://www.linkedin.com/in/fahimu10/) [![Medium Badge](https://img.shields.io/badge/-@Fahimu10-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@fahimu10/)](https://medium.com/@fahimu10/)
+[![Gmail Badge](https://img.shields.io/badge/-fahimuddin.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fahimuddin.dev@gmail.com)](mailto:fahimuddin.dev@gmail.com)
 
 
 <p style="text-align:justify;"> 
