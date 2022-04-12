@@ -2,7 +2,7 @@
 
 # Fahim Uddin
 
-[![Twitter Badge](https://img.shields.io/badge/-@fahimu10-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fahimu10)](https://twitter.com/fahimu10) [![Linkedin Badge](https://img.shields.io/badge/-fahimu10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahimu10/)](https://www.linkedin.com/in/fahimu10/) [![Medium Badge](https://img.shields.io/badge/-@Fahimu10-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@fahimu10/)](https://medium.com/@fahimu10/)
+[![Twitter Badge](https://img.shields.io/badge/-@fahimu10-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fahimu10)](https://twitter.com/fahimu10) [![Linkedin Badge](https://img.shields.io/badge/-fahimu10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahimu10/)](https://www.linkedin.com/in/fahimu10/) [![Medium Badge](https://img.shields.io/badge/-@Fahimu10-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@fahimu10/)](https://medium.com/@fahimu10/)<a href="https://dev.to/sulthannk"><img alt="Dev Community" src="https://img.shields.io/badge/-SulthanNK-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sulthannk"></a>
 [![Gmail Badge](https://img.shields.io/badge/-fahimuddin.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fahimuddin.dev@gmail.com)](mailto:fahimuddin.dev@gmail.com)
 
 
