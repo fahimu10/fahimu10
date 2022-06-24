@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-fahimuddin.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fahimuddin.dev@gmail.com)](mailto:fahimuddin.dev@gmail.com)
 
 <p style="text-align:justify;"> 
-Experienced Software Engineer with a demonstrated history of working in the the software industry industry. Skilled in React.js, Next.js, Node.js, AWS, GraphQL, Agile & Waterfall Methodologies. Strong engineering professional with a Bachelor of Science (B.Sc.) focused in Computer Science and Engineering from North South University.
+Experienced Software Engineer with a demonstrated history of working in the the software industry. Skilled in React.js, Next.js, Node.js, AWS, GraphQL, Agile & Waterfall Methodologies. Strong engineering professional with a Bachelor of Science (B.Sc.) focused in Computer Science and Engineering from North South University.
 </p>
 <br>
 
