@@ -11,7 +11,7 @@
 [![Dev.to Badge](https://img.shields.io/badge/-@fahimu10-000000?style=flat&labelColor=000000&logo=Dev.to&link=https://dev.to/fahimu10)](https://dev.to/fahimu10)-->
 
 <p style="text-align:justify;"> 
-Experienced Software Engineer with a demonstrated history of working in the the software industry. Skilled in React.js, Next.js, Node.js, AWS, GraphQL, Agile & Waterfall Methodologies. Strong engineering professional with a Bachelor of Science (B.Sc.) focused in Computer Science and Engineering from North South University.
+I am a software engineer with a demonstrated history of working in the fintech and software industries. I am skilled in React.js, Next.js, Node.js, AWS, GraphQL, and Agile & Waterfall methodologies. I am a strong engineering professional with a Bachelor of Science (B.Sc.) in Computer Science and Engineering from North South University.
 </p>
 
 
