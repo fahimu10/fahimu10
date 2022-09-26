@@ -4,7 +4,7 @@
          width="45" /> I'm Fahim Uddin</h1>
          
 <p style="text-align:justify;"> 
-I am a software engineer with a demonstrated history of working in the fintech and software industries. I am skilled in React.js, Next.js, Node.js, AWS, GraphQL, and Agile & Waterfall methodologies. I am a strong engineering professional with a Bachelor of Science (B.Sc.) in Computer Science and Engineering from North South University.
+Competent software engineer familiar with SDLC models and have a demonstrated history of working in various industries for more than two years, writing reliable and scalable code for businesses with high production levels. Skilled in React.js, Next.js, Node.js, Express.js, MongoDB and AWS Amplify.
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-fahimu10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahimu10/)](https://www.linkedin.com/in/fahimu10/) [![Twitter Badge](https://img.shields.io/badge/-@fahimu10-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fahimu10)](https://twitter.com/fahimu10)
