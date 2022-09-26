@@ -3,18 +3,23 @@
          height="45"
          width="45" /> I'm Fahim Uddin</h1>
          
-<p style="text-align:justify;"> 
-I am a competent software engineer familiar with SDLC models and have a demonstrated history of working in various industries for more than two years, writing reliable and scalable code for businesses with high production levels. I am skilled in React.js, Next.js, Node.js, Express.js, MongoDB and AWS Amplify.
-</p>
-
-[![Linkedin Badge](https://img.shields.io/badge/-fahimu10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahimu10/)](https://www.linkedin.com/in/fahimu10/) [![Twitter Badge](https://img.shields.io/badge/-@fahimu10-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fahimu10)](https://twitter.com/fahimu10)
+[![Linkedin Badge](https://img.shields.io/badge/-fahimu10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahimu10/)](https://www.linkedin.com/in/fahimu10/)
+[![Dev.to Badge](https://img.shields.io/badge/-@fahimu10-000000?style=flat&labelColor=000000&logo=Dev.to&link=https://dev.to/fahimu10)](https://dev.to/fahimu10)
 <a href="https://fahimuddin.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Fahim's Article-%232962FF.svg?&style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"></a>
 [![Gmail Badge](https://img.shields.io/badge/-fahimuddin.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fahimuddin.dev@gmail.com)](mailto:fahimuddin.dev@gmail.com)
-<!--- [![Medium Badge](https://img.shields.io/badge/-@Fahimu10-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@fahimu10/)](https://medium.com/@fahimu10/) 
-[![Dev.to Badge](https://img.shields.io/badge/-@fahimu10-000000?style=flat&labelColor=000000&logo=Dev.to&link=https://dev.to/fahimu10)](https://dev.to/fahimu10)-->
+<!--- [![Medium Badge](https://img.shields.io/badge/-@Fahimu10-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@fahimu10/)](https://medium.com/@fahimu10/)-->
+<!--- [![Twitter Badge](https://img.shields.io/badge/-@fahimu10-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fahimu10)](https://twitter.com/fahimu10)-->
 
 
-### ⚙️ &nbsp;GitHub Analytics
+<p style="text-align:justify;"> 
+I am a competent software engineer familiar with SDLC models and have a demonstrated history of working in various industries for more than two years, writing reliable and scalable code for businesses with high production levels.
+</p>
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,aws)](https://skillicons.dev)
+
+<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
 <p align="center">
 <a href="https://github.com/fahimu10">
