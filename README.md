@@ -12,7 +12,7 @@
 
 
 <p style="text-align:justify;"> 
-I am a competent software engineer familiar with SDLC models and have a demonstrated history of working in various industries for more than two years, writing reliable and scalable code for businesses with high production levels.
+Competent software engineer with a demonstrated history of working in various industries for more than two years and familiar with SDLC models, writing reliable and scalable code for businesses with high production levels.
 </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
