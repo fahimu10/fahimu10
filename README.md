@@ -1,7 +1,7 @@
 <h1 align="left"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Fahim Uddin</h1>
+         width="45" /> I'm Fahim</h1>
          
 [![Linkedin Badge](https://img.shields.io/badge/-fahimu10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahimu10/)](https://www.linkedin.com/in/fahimu10/)
 [![Dev.to Badge](https://img.shields.io/badge/-@fahimu10-000000?style=flat&labelColor=000000&logo=Dev.to&link=https://dev.to/fahimu10)](https://dev.to/fahimu10)
