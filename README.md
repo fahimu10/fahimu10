@@ -3,12 +3,8 @@
          height="45"
          width="45" /> I'm Fahim</h1>
          
-[![Linkedin Badge](https://img.shields.io/badge/-fahimu10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahimu10/)](https://www.linkedin.com/in/fahimu10/)
-<a href="https://www.fahimuddin.dev/" target="_blank"><img src="https://img.shields.io/badge/Fahim Uddin-%232962FF.svg?&style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"></a>
-[![Gmail Badge](https://img.shields.io/badge/-fahimuddin.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fahimuddin.dev@gmail.com)](mailto:fahimuddin.dev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-fahimu10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahimu10/)](https://www.linkedin.com/in/fahimu10/) [![Twitter Badge](https://img.shields.io/badge/-fahimu10-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fahimu10)](https://twitter.com/fahimu10) [![Dev.to Badge](https://img.shields.io/badge/-fahimu10-000000?style=flat&labelColor=000000&logo=Dev.to&link=https://dev.to/fahimu10)](https://dev.to/fahimu10) <a href="https://article.fahimuddin.dev/" target="_blank"><img src="https://img.shields.io/badge/Fahim's Articles-%232962FF.svg?&style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"></a> [![Gmail Badge](https://img.shields.io/badge/-hi@fahimuddin.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi@fahimuddin.dev)](mailto:hi@fahimuddin.dev)
 <!--- [![Medium Badge](https://img.shields.io/badge/-@Fahimu10-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@fahimu10/)](https://medium.com/@fahimu10/)-->
-<!--- [![Twitter Badge](https://img.shields.io/badge/-@fahimu10-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fahimu10)](https://twitter.com/fahimu10)-->
-<!---[![Dev.to Badge](https://img.shields.io/badge/-@fahimu10-000000?style=flat&labelColor=000000&logo=Dev.to&link=https://dev.to/fahimu10)](https://dev.to/fahimu10)--->
 
 <p style="text-align:justify;"> 
 Competent software engineer with a demonstrated history of working in various industries for more than two years and familiar with SDLC models, writing reliable and scalable code for businesses with high production levels.
