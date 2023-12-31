@@ -11,11 +11,15 @@ Competent software engineer with a demonstrated history of working in various in
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-**Languages :** JavaScript, Python, TypeScript, Go, HTML, CSS, SQL.
+**Languages:** Javascript, Python, TypeScript, PHP, HTML, CSS, SQL, etc.
 
-**Frontend :** NextJS, ReactJS, VueJS, Redux, Pinia, Bootstrap, Material Ui, Tailwind CSS, React Query, etc.
+**Framework/Library:** Node.js, Next.js, React.js, Vue.js, Pinia, Nest.js, Express.js, Bootstrap, Tailwind CSS, React Query, etc.
 
-**Backend :** NodeJS, Prisma ORM, ExpressJS, Jest, Flask, REST API, GraphQL, Mysql, PostgreSQL, MongoDB, etc.
+**Database:** MySQL, PostgreSQL, MongoDB, DynamoDB, GraphQL, etc.
+
+**Cloud:** AWS, Heroku, Vercel, Digital Ocean, Firebase, Sanity, etc.
+
+**Others:** Git, Docker, Bash, JIRA, Markdown, Adobe Illustrator, Photoshop, Premiere Pro, AfterEffects, etc.
 
 <br/>
 
