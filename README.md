@@ -12,11 +12,11 @@ Competent software engineer with a demonstrated history of working in various in
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,aws)](https://skillicons.dev)
 
-<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+<h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
 <p align="center">
 <a href="https://github.com/fahimu10">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahimu10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahimu10&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahimu10&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahimu10&layout=compact&langs_count=8&theme=gotham"/>
 </a>
 </p>
