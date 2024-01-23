@@ -23,7 +23,7 @@ Competent software engineer with a demonstrated history of working in various in
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,nextjs,vue,express,nestjs,mysql,postgres,mongodb,firebase,vercel,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,react,nextjs,vue,express,nestjs,mysql,postgres,mongodb,firebase,vercel,docker,aws)](https://skillicons.dev)
 
 <h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
