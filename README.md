@@ -6,7 +6,7 @@
 Competent software engineer with a demonstrated history of working in various industries and familiar with SDLC models, writing reliable and scalable code for businesses with high production levels.
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-fahimu10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahimu10/)](https://www.linkedin.com/in/fahimu10/) [![Twitter Badge](https://img.shields.io/badge/-fahimu10-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fahimu10)](https://twitter.com/fahimu10) [![Dev.to Badge](https://img.shields.io/badge/-fahimu10-000000?style=flat&labelColor=000000&logo=Dev.to&link=https://dev.to/fahimu10)](https://dev.to/fahimu10) <a href="https://article.fahimuddin.dev/" target="_blank"><img src="https://img.shields.io/badge/Fahim's Articles-%232962FF.svg?&style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"></a> 
+[![Linkedin Badge](https://img.shields.io/badge/-fahimu10-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahimu10/)](https://www.linkedin.com/in/fahimu10/) [![Twitter Badge](https://img.shields.io/badge/-fahimu10-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fahimu10)](https://twitter.com/fahimu10) <a href="https://article.fahimuddin.dev/" target="_blank"><img src="https://img.shields.io/badge/Fahim's Articles-%232962FF.svg?&style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"></a> 
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
