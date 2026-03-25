@@ -1,6 +1,6 @@
 <h1 align="center">Fahim Uddin</h1>
 <p align="center">
-  AI Engineer · Full-Stack Developer · Erlangen, Germany
+  <code>AI Engineer</code> &nbsp;&nbsp; <code>Full-Stack Developer</code>
 </p>
 
 <p align="center">
