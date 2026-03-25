@@ -6,8 +6,8 @@
 <p align="center">
   <a href="https://www.fahimuddin.dev/"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/fahimu10/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white"/></a>&nbsp;
-  <a href="/cdn-cgi/l/email-protection#f593949d9c988091919c9bdb919083b59298949c99db969a98"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://article.fahimuddin.dev/"><img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white"/></a>&nbsp;
+  <a href="mailto:fahimuddin.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://fahimuddin.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white"/></a>&nbsp;
   <a href="https://twitter.com/fahimu10"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white"/></a>
 </p>
 
