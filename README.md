@@ -71,7 +71,3 @@ M.Sc. Artificial Intelligence student at **FAU Erlangen-Nürnberg** with 5+ year
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahimu10&layout=compact&langs_count=6&theme=default&hide_border=true"/>
 </p>
 
----
-
-<p align="center">
-  <sub>Open to working student roles in AI & softwa
