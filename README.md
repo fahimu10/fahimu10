@@ -1,6 +1,6 @@
 <h1 align="center">Fahim Uddin</h1>
 <p align="center">
-  <code>AI Engineer</code> &nbsp;&nbsp; <code>Full-Stack Developer</code>
+  &nbsp;&nbsp; <code>AI & Software Engineer</code> &nbsp;&nbsp;
 </p>
 
 <p align="center">
